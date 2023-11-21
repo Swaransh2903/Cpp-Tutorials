@@ -1,0 +1,1 @@
+// A safe node is one wherein all paths emerging from that node leads to a terminal node.
